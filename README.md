@@ -2,7 +2,7 @@
 
 
 
-Cette application calcule le total d'un achat.
+Cette application calcule le total d'un achat et affiche le nom du client.
 
 
 
@@ -12,5 +12,7 @@ Exécution : java Facture
 
 
 
-Exemple initial : 2 articles à 20 dollars donnent 40 dollars.
+Exemple actuel : 3 articles à 20 dollars donnent 60 dollars.
+
+Client : Client démonstration
 
